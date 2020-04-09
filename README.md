@@ -1,11 +1,10 @@
 # Week-12-Class-Build
 
+## Description
+1054-01-20W Week 12 JS Class Build 
 
 ## Repository Requriements
 This repo use [chart.js](https://www.jsdeliver.com/packages/npm/chart.js)
-
-## Installation
-There is no installation process for this repo.Simply pulldown and start working!
 
 ## MIT License
 Copyright (c) [2020] [Jagdeep Singh]
